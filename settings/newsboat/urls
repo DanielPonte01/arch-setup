@@ -1,0 +1,30 @@
+News
+https://www.dailymail.co.uk/home/index.rss "news"
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml "news"
+
+Law
+https://www.dizerodireito.com.br/feeds/posts/default?alt=rss "law"
+
+Liberty | Books
+https://mises.org/feed/blog.rss
+https://oll.libertyfund.org/rss/law.rss "law"
+https://oll.libertyfund.org/rss/political_theory.rss "law"
+https://oll.libertyfund.org/rss/philosophy.rss "philosophy"
+https://oll.libertyfund.org/rss/war_and_peace.rss "war"
+https://oll.libertyfund.org/rss/recent_additions.rss "liberty-fund"
+https://oll.libertyfund.org/rss/books_published_by_liberty_fund.rss "liberty-fund"
+
+Videos
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "~Luke Smith (Videos)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
+
+Tech
+https://landchad.net/rss.xml "tech"
+https://artixlinux.org/feed.php "tech"
+https://www.archlinux.org/feeds/news/ "tech"
+
+General
+https://lukesmith.xyz/rss.xml
+https://lindypress.net/rss
+https://notrelated.xyz/rss
+https://based.cooking/index.xml
